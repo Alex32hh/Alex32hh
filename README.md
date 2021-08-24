@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey, I'm Francisco Alex! 👋🏾
 
-<!--
-**Alex32hh/Alex32hh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/FrancisMarques)](https://twitter.com/FrancisMarques)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francisco-alexandre-marques-b25160182/)](https://www.linkedin.com/in/francisco-alexandre-marques-b25160182/)
 
-Here are some ideas to get you started:
+Software Engineer. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In progress work:
+- 👨🏾‍💻 Studying data science
+- 🎮 Working on Game Dev
+- 🤖 Working on IA
+- 📱 Working on Mobile
+- 📟 Fast, easy to use and accessible way to verify news 📰 thus, tackling the negative effects of mis and disinformation. [Nuxol](http://nuxo.ao/)

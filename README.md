@@ -11,3 +11,8 @@ In progress work:
 - 🤖 Working on IA
 - 📱 Working on Mobile
 - 📟 Fast, easy to use and accessible way to verify news 📰 thus, tackling the negative effects of mis and disinformation. [Nuxol](http://nuxo.ao/)
+
+Available for:
+- 💪 RRemote Working
+- 🚗 Relocation
+- ✊🏾 New Challenges
